@@ -49,7 +49,6 @@ class StatsClient extends Client
      *
      * @param $campaignId
      * @param array $params
-     * @param array $query
      * @param null $dbgKey
      * @return GetStatsBySkusResponse
      * @throws GuzzleException
